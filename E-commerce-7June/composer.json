@@ -27,7 +27,7 @@
         "laravel/tinker": "^2.5",
         "laravelpkg/laravelchk": "dev-master",
         "lcobucci/jwt": "^4.1",
-        "league/glide": "^2.0 || ^1.0"
+        "league/glide": "^2.0 || ^1.0",
         "league/flysystem-aws-s3-v3": "^1.0",
         "madnest/madzipper": "^1.1",
         "mercadopago/dx-php": "^2.4",
